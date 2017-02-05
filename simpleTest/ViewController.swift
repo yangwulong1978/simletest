@@ -6,6 +6,9 @@
 //  Copyright © 2017 q6. All rights reserved.
 //
 //test1
+
+//test branch2
+
 import UIKit
 
 class ViewController: UIViewController {
